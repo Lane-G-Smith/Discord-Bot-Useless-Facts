@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot-useless-facts",
+  "version": "1.0.0",
+  "description": "A smimple Discord bot that calls on the useless facts API when called on",
+  "main": "facts.js",
+  "scripts": {
+    "test": "fact"
+  },
+  "author": "Lane G Smith",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.12.1",
+    "dotenv": "^16.3.1",
+    "node": "^20.5.0"
+  }
+}
