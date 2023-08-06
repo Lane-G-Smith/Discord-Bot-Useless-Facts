@@ -2,14 +2,14 @@
 <table align="center">
   <tr>
     <td align="center" height="108" width="108">
-        <img     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvrC8Oi57vadxpfhVLgAPPaS9vwXzn38aAjQ&usqp=CAU"
+        <img     src=""
         width="60"
         height="60"
         />
         <br /><strong>Discord.js</strong>
     </td>
     <td align="center" height="108">
-      <p align="center">A simple vanilla javascript Discord bot that posts useless facts when called on using the rest API from . Responds to chat whenever someone types "fact"
+      <p align="center">A simple vanilla javascript Discord bot that posts useless facts when called on using the rest API from here https://www.djtech.net/humor/useless_facts.htm. Responds to chat whenever someone types "fact"
       </p>
      </td>
    </tr>
