@@ -2,7 +2,7 @@
 <table align="center">
   <tr>
     <td align="center" height="108" width="108">
-        <img     src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"
+        <img     src="https://photos.smugmug.com/External-Website-Photos/n-MK8QBN/Github/i-pZMvQSf/0/20a15d29/X2/2023_08_07_09_34_10__DPM%2B%2B%202M%20SDE%20Karras_34_9_portrait%2B1.0_919685869-X2.jpg"
         width="60"
         height="60"
         />
